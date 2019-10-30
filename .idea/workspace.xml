@@ -19,10 +19,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1SvyeOj0CWQ6NxUSRNtYNalOfsf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path" value="C:\Users\ailee\IdeaProjects\project110\src\edu\ucsd\cs110\tests" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -132,12 +136,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572458458229</updated>
-      <workItem from="1572458463333" duration="4566000" />
+      <workItem from="1572458463333" duration="5166000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
